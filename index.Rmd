@@ -2,7 +2,7 @@
 title: "Dissertation support for Linguistics and English Language"
 subtitle: "Week 8 - Data Management"
 author: "Stefano Coretta"
-date: "2022-11-11"
+date: "2023-11-07"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -243,16 +243,6 @@ https://github.com/allisonhorst/stats-illustrations
 .center[
 ![:scale 70%](img/tidy-3.png)
 ]
-
----
-
-# Mini-course on R
-
-- November 28th and December 2nd.
-
-- 2-3.30pm in LLTC G.01.
-
-- For absolute beginners.
 
 ---
 
